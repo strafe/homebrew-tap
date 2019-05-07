@@ -1,7 +1,7 @@
 class PlaylistDl < Formula
-  desc 'YouTube playlist downloader'
-  homepage 'https://github.com/strafe/playlist-dl.sh'
-  url 'https://github.com/strafe/playlist-dl.sh.git'
+  desc 'Download YouTube playlists for safekeeping'
+  homepage 'https://github.com/strafe/playlist-dl'
+  url 'https://github.com/strafe/playlist-dl.git'
   version '0.0.1'
 
   def install
