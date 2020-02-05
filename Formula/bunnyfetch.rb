@@ -1,4 +1,4 @@
-class BunnyFetch < Formula
+class Bunnyfetch < Formula
   desc 'Tiny colored fetch script'
   homepage 'https://github.com/elenapan/dotfiles'
   url 'https://github.com/elenapan/dotfiles.git'
