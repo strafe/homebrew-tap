@@ -2,7 +2,7 @@ class Grumi < Formula
   desc "Upload an image, video or album to Imgur"
   homepage "https://github.com/strafe/grumi"
   url "https://github.com/strafe/grumi.git"
-  version "0.2.0"
+  version "0.4.1"
   license "MIT"
   
   depends_on "jq"
