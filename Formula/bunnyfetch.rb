@@ -1,10 +1,11 @@
 class Bunnyfetch < Formula
-  desc 'Tiny colored fetch script'
-  homepage 'https://github.com/elenapan/dotfiles'
-  url 'https://github.com/elenapan/dotfiles.git'
-  version '0.0.1'
+  desc "🐰 macOS version of elenapan's bunnyfetch"
+  homepage "https://github.com/strafe/bunnyfetch"
+  url "https://github.com/strafe/bunnyfetch.git"
+  version "0.0.1"
+  license "MIT"
 
   def install
-    bin.install 'bin/bunnyfetch'
+    bin.install "bunnyfetch"
   end
 end
