@@ -1,5 +1,5 @@
 class Grumi < Formula
-  desc "Upload an image, video or album to Imgur"
+  desc "Upload an image, video or album to Imgur via the command line"
   homepage "https://github.com/strafe/grumi"
   url "https://github.com/strafe/grumi.git"
   version "0.4.1"
