@@ -8,7 +8,7 @@ cask "odourless" do
   desc "A tool for preventing .DS_Store creation"
   homepage "https://github.com/xiaozhuai/odourless"
 
-  auto_updates on
+  auto_updates true
 
   app "Odourless.app"
 end
